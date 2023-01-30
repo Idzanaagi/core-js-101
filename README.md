@@ -1,6 +1,6 @@
 # Core JS 101
 
-Задачи по JS в рамках курса RSSchool. Само задание лежит [здесь](https://github.com/mikhama/core-js-101/)
+Задача - реализовать функции по 8 разным темам CoreJS. Полноe описание лежит [здесь](https://github.com/mikhama/core-js-101/)
 
 Задачи на работу с:
 - Strings,
